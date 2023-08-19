@@ -12,5 +12,3 @@ while i < p:  # Search min
         minimal = my_list[i]
     i += 1
 print(f'Наименьшее число в списке -> {minimal}')
-print()
-print()
